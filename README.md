@@ -1,5 +1,5 @@
 # Estudo de caso:
-## Cadastro e atualização de uma entidade com múltiplas entidades em seu domínio.
+### Cadastro e atualização de uma entidade com múltiplas entidades em seu domínio.
 
 ### - Stacks:
 * Java 21.
